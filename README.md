@@ -5,6 +5,7 @@ I'm a **CS Student @ UT Austin** sophomore with a passion for **backend engineer
 ### 🚀 **What I'm Working On**
 
 - 🌱 I’m currently learning about System Design & Distributed Systems.
+- 💻 Currently Open-Source Contributing to Fireracker, a tool used by AWS Lambda.
 - ⚡ Fun fact: I've been playing the Piano for 15 years 🎹
 
 ### 📬 **Let's Connect!**  
