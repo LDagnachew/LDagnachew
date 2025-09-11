@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Leul!  
 
-I'm a **CS Student @ UT Austin** sophomore with a passion for **backend engineering and infrastructure**. I thrive on solving complex system problems, optimizing performance, and building scalable solutions.  
+I'm a **CS Student @ UT Austin** sophomore with a passion for **infra engineering** & leaning towards **ML Infrastructure/MLOps**. I thrive on solving complex system problems, optimizing performance, and building scalable solutions.  
 
 ### 🚀 **What I'm Working On**
 
