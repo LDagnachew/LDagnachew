@@ -5,7 +5,7 @@ I'm a **CS Student @ UT Austin** sophomore with a passion for **infra engineerin
 ### 🚀 **What I'm Working On**
 
 - 🌱 I’m currently learning about System Design & Distributed Systems.
-- 💻 Currently laying out plans to build an ML Inference Engine.
+- 💻 Currently laying out plans to build an ML Inference Engine, Open Source Contributing to MCP.
 - ⚡ Fun fact: I've been playing the Piano for 15 years 🎹
 
 ### 📬 **Let's Connect!**  
